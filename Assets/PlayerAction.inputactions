@@ -1,0 +1,74 @@
+{
+    "name": "PlayerAction",
+    "maps": [
+        {
+            "name": "PlayerAction",
+            "id": "89818283-f054-408b-83e0-8afe6d1a1d44",
+            "actions": [
+                {
+                    "name": "XR_R_PrimButtonPressed",
+                    "type": "Button",
+                    "id": "c6129a43-3e2a-4448-b531-89db8ece746c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "XR_L_PrimButtonPressed",
+                    "type": "Button",
+                    "id": "c77adbda-01b7-4eb0-a44c-ff2404cf888c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "XR_R_TriggerPressed",
+                    "type": "Button",
+                    "id": "c6ca90b9-7e05-44fb-ae3c-904709b6522d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d1e878fc-d586-44df-ac43-54c54044c4c6",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XR_R_PrimButtonPressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b64f8a8b-cc33-4c9d-97e0-5f82495db012",
+                    "path": "<OculusTouchController>/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XR_R_TriggerPressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "32db624e-e336-4653-8840-24282e7f38f4",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "XR_L_PrimButtonPressed",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec46fe5d173216a46bd1f44b99c6f6c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roomPosition: {instanceID: 0}
+  - externalViewPosition: {instanceID: 0}
+  - switchPositionAction: {fileID: -2885037917452147, guid: 8e6ae925fa0545c42b442f52ee8e6537, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

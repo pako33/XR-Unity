@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8975597d948c3f942be5a45c4bf8bb6b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - light: {instanceID: 0}
+  - toggleLightAction: {fileID: 6604945619994235008, guid: 8e6ae925fa0545c42b442f52ee8e6537, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
